@@ -179,6 +179,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.8em;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -193,6 +194,7 @@
   font-family: $sans-serif;
   z-index: 20;
   cursor: pointer;
+  font-size: 0.8em;
 
   li:last-child {
     a {
