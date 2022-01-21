@@ -18,5 +18,5 @@ main:
   - title: "Resume & Publications"
     url: /resume/
 
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
