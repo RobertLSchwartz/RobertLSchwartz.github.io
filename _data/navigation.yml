@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
 
   - title: "Posts"
@@ -9,14 +9,14 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Resume & Publications"
-    url: /resume/
-    
-  - title: "Resume & Publications"
-    url: /resume/
+  - title: "Resume"
+    url: /cv/
 
-  - title: "Resume & Publications"
-    url: /resume/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "DataCentral"
+    url: /datacentral/
+
+  - title: "Lecture Resources"
+    url: /lectur/

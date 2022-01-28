@@ -1,6 +1,7 @@
 ---
-title:  "about"
+title:  "About"
 layout: single
+classes: wide
 permalink: /about/
 author_profile: true
 comments: true
@@ -8,11 +9,13 @@ comments: true
 
 ### About
 
-Hello! Welcome to my personal website.
+Hello! Welcome to my personal website. Here I host various things pertaining to my background and personal and professional involvements.<br>
 
-In an attempt to be mainstream, I figured I would host some of my involvements and personal projects on the web. Feel free to take a look around and see what you like. If you have any questions or would like to collaborate on a project, research paper, or just wanna chat, don’t hesitate to reach out!
+Feel free to take a look around and see what you like. If you have any questions or would like to collaborate on a project, research paper, or just wanna chat, please don't hesitate to shoot me an email.<br>
 
+**My Background**<br>
+Undergraduate Education<br>
+B.S. Finance and Legal Studies<br>
+*Indiana University of Pennsylvania*<br>
 
-
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
+*[insert photo of my in SMIP]
