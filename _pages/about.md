@@ -24,5 +24,3 @@ All data provided within DataCentral is freely available, and where applicable, 
 Undergraduate Education<br>
 B.S. Finance and Legal Studies<br>
 *Indiana University of Pennsylvania*<br>
-
-*[insert photo of my in SMIP]
