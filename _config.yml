@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Robert L Schwartz"
   avatar           : "/assets/Schwartz Sample Photo JPEG Round.jpg"
-  bio              : "A finance professional focused on the integration of theory and practice. Interested in applications of econometrics and data science to investment management."
+  bio              : "A finance professional focused on the integration of theory and practice. Interested in capital markets, monetary economics, and econometrics."
   location         : "Pittsburgh, PA"
   email            :
   links:
@@ -126,7 +126,7 @@ author:
     - label: "Indiana University of PA '18"
       icon: "fa fa-university"
       url: "https://iup.edu/"
-          - label: "Carnegie Mellon University '25"
+    - label: "Carnegie Mellon University '25"
       icon: "fa fa-university"
       url: "https://www.cmu.edu/tepper/programs/mba/"
 
