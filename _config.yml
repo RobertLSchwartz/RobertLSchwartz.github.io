@@ -126,6 +126,9 @@ author:
     - label: "Indiana University of PA '18"
       icon: "fa fa-university"
       url: "https://iup.edu/"
+          - label: "Carnegie Mellon University '25"
+      icon: "fa fa-university"
+      url: "https://www.cmu.edu/tepper/programs/mba/"
 
 # Site Footer
 footer:
