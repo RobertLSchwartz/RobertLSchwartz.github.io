@@ -108,6 +108,12 @@ author:
   location         : "Pittsburgh, PA"
   email            :
   links:
+    - label: "Indiana University of PA '18"
+      icon: "fa fa-university"
+      url: "https://iup.edu/"
+    - label: "Carnegie Mellon University '25"
+      icon: "fa fa-university"
+      url: "https://www.cmu.edu/tepper/programs/mba/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -123,12 +129,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RobertLSchwartz/"
-    - label: "Indiana University of PA '18"
-      icon: "fa fa-university"
-      url: "https://iup.edu/"
-    - label: "Carnegie Mellon University '25"
-      icon: "fa fa-university"
-      url: "https://www.cmu.edu/tepper/programs/mba/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Ow8OZHIAAAAJ&hl=en"
 
 # Site Footer
 footer:
