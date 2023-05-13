@@ -21,7 +21,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <br>
 
 <h4> THE LABOR MARKET </h4>
-**UNEMPLOYMENT INSURANCE**
+<h6> UNEMPLOYMENT INSURANCE </h6>
 Following the passing of the Social Security Act of 1935, the United States implemented an unemployment insurance system designed to act as a safety net for individuals who recently separated from their previous employer, or dropped below full-time employment, and needed to temporarily supplement their income. Claims requesting unemployment insurance benefits are tracked at the state level and aggregated to the federal level in the form of "initial unemployment claims" and "continued unemployment claims".
 
 <h7> Initial Unemployment Claims </h7>
@@ -30,63 +30,63 @@ Following the passing of the Social Security Act of 1935, the United States impl
   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tIt&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> Continued Unemployment Claims </h6>
+<h7> Continued Unemployment Claims </h7>
 *Continued Unemployment Claims are published weekly and measure the number of people who have previously filed an initial unemployment claim, have experienced a week of unemployment, and have subsequently filed a continued claim requesting unemployment insurance benefits.*
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tID&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> Unemployment Rate </h6>
+<h7> Unemployment Rate </h7>
 <div class="video-container">
    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-**JOLTS REPORT**
+<h6> JOLTS REPORT </h6>
 *The Job Openings and Labor Turnover Survey ("JOLTS") is published monthly by the Bureau of Labor Statistics ("BLS") and serves as a indicator of un-met demand in the labor market. Statistics reported include: total employment, job openings, hires, quits, layoffs and discharges, and other separations. Statistics are generated through sampling of businesses across the United States.*
 
-<h6> JOLTS: All Components </h6>
+<h7> JOLTS: All Components </h7>
 *YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uH6&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> JOLTS: Job Openings </h6>
+<h7> JOLTS: Job Openings </h7>
 *YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJm&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> JOLTS: New Hires </h6>
+<h7> JOLTS: New Hires </h7>
 *YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uIJ&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> JOLTS: Layoffs & Discharges </h6>
+<h7> JOLTS: Layoffs & Discharges </h7>
 *YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJu&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> JOLTS: Quits </h6>
+<h7> JOLTS: Quits </h7>
 *YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uIM&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> Non-Farm Payrolls </h6>
+<h7> Non-Farm Payrolls </h7>
 *MoM change in number of persons employed* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJI&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> Labor Supply & Demand: Job Openings Exceed Available Workers </h6>
+<h7> Labor Supply & Demand: Job Openings Exceed Available Workers </h7>
 *If the civilian labor force is greater than employment plus job openings, the economy has immediate capacity to fill open positions.*
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJN&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h6> Average Hourly Earnings (Wages) </h6>
+<h7> Average Hourly Earnings (Wages) </h7>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tK4&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
