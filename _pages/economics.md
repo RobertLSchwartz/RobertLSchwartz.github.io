@@ -53,7 +53,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJI&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> Labor Supply & Demand: Job Openings Exceed Available Workers </h5> <br>
+<h5> Labor Supply & Demand: Job Openings Exceed Available Workers </h5>
 *If the civilian labor force is greater than employment plus job openings, the economy has immediate capacity to fill open positions.*
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJN&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -67,8 +67,8 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Real Activity </h3><br>
----
+<h3> Real Activity </h3>
+
 <h5> Real GDP (Annualized Rate) </h5>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tPG&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -82,8 +82,8 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Prices </h3><br>
----
+<h3> Prices </h3>
+
 <h5> Headline CPI & Core CPI </h5>
 *Consumer Price Indices, YoY Percent Change*
 <div class="video-container">
@@ -105,8 +105,8 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Interest Rates </h3><br>
----
+<h3> Interest Rates </h3>
+
 <h5> Bill Curve </h5>
 <br>
 <h5> US Treasury Actives Curve </h5>
@@ -122,7 +122,8 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Credit Spreads (Cash & Synthetic) </h3><br>
+<h3> Credit Spreads (Cash & Synthetic) </h3>
+
 <h5> Investment-Grade Credit Spreads (OAS)</h5>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKn&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -146,3 +147,22 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <br>
 <h5> Mortgage-Backed Security Spreads (CDS) </h5>
 <br>
+
+Other data points
+1. Retail Sales
+2. Manufacturing PMI
+3. Services PMI
+4. Inventories
+5. Reordering
+6. University of Michigan Consumer Confidence
+7. Business Confidence
+8. Senior Loan Officer Survey: Lending Standards
+9. Corporate Gross Profit Margins
+10. Corporate Net Profit Margins
+11. Default Rates
+12. Upgrades vs Downgrades
+13. Interest on Reserve Balances
+14. Federal Funds Rate
+15. 15yr Mortgage Rate
+16. 30yr Mortgage Rate
+17. Prime Rate
