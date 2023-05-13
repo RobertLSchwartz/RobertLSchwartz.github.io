@@ -40,6 +40,9 @@ Following the passing of the Social Security Act of 1935, the United States impl
    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
+**JOLTS REPORT**
+*The Job Openings and Labor Turnover Survey ("JOLTS") is published monthly by the Bureau of Labor Statistics ("BLS") and serves as a indicator of un-met demand in the labor market. Statistics are reported include: total employment, job openings, hires, quits, layoffs and discharges, and other separations. Statistics are generated through sampling of businesses across the United States.*
+
 <h5> JOLTS: All Components </h5>
 *YoY Percent Change* <br>
 <div class="video-container">
@@ -47,16 +50,30 @@ Following the passing of the Social Security Act of 1935, the United States impl
 </div><br>
 
 <h5> JOLTS: Job Openings </h5>
+*YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJm&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> JOLTS: Layoffs </h5>
+<h5> JOLTS: New Hires </h5>
+*YoY Percent Change* <br>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uIJ&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> JOLTS: Layoffs & Discharges </h5>
+*YoY Percent Change* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJu&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> Non-Farm Payrolls (Hiring) </h5>
+<h5> JOLTS: Quits </h5>
+*YoY Percent Change* <br>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uIM&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> Non-Farm Payrolls </h5>
 *MoM change in number of persons employed* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJI&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -78,12 +95,14 @@ Following the passing of the Social Security Act of 1935, the United States impl
 
 <h3> REAL ECONOMIC ACTIVITY </h3>
 
-<h5> Real GDP (Annualized Rate) </h5>
+<h5> Real Gross Domestic Product </h5>
+*Quarterly, Annualized Rate* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tPG&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> Real GDP (Annualized Rate) </h5>
+<h5> Real GDP Components </h5>
+*Quarterly, Annualized Rate* <br>
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tPO&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
@@ -128,6 +147,14 @@ Following the passing of the Social Security Act of 1935, the United States impl
 <br>
 <h5> 10s30s </h5>
 <br>
+<h5> Interest on Reserve Balances </h5>
+<br>
+<h5> Federal Funds Rate </h5>
+<br>
+<h5> Prime Rate </h5>
+<br>
+<h5> 15yr & 30yr Mortgage Rates </h5>
+<br>
 
 
 
@@ -148,14 +175,6 @@ Following the passing of the Social Security Act of 1935, the United States impl
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKb&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> Investment-Grade Credit Spreads (CDS) </h5>
-<br>
-<h5> High Yield Credit Spreads (CDS) </h5>
-<br>
-<h5> Emerging Market Credit Spreads (CDS) </h5>
-<br>
-<h5> Mortgage-Backed Security Spreads (CDS) </h5>
-<br>
 
 Other data points
 1. Retail Sales
@@ -170,8 +189,4 @@ Other data points
 10. Corporate Net Profit Margins
 11. Default Rates
 12. Upgrades vs Downgrades
-13. Interest on Reserve Balances
-14. Federal Funds Rate
-15. 15yr Mortgage Rate
-16. 30yr Mortgage Rate
-17. Prime Rate
+13. Synthetic Credit Spreads (CDS)
