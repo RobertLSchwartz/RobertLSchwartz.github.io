@@ -20,7 +20,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 <br>
 
-<h3> The Labor Market </h3>
+<h3> THE LABOR MARKET </h3>
 
 <h5> Initial Unemployment Claims </h5>
 <div class="video-container">
@@ -67,7 +67,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Real Activity </h3>
+<h3> REAL ECONOMIC ACTIVITY </h3>
 
 <h5> Real GDP (Annualized Rate) </h5>
 <div class="video-container">
@@ -82,7 +82,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Prices </h3>
+<h3> PRICES </h3>
 
 <h5> Headline CPI & Core CPI </h5>
 *Consumer Price Indices, YoY Percent Change*
@@ -105,7 +105,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Interest Rates </h3>
+<h3> INTEREST RATES </h3>
 
 <h5> Bill Curve </h5>
 <br>
@@ -122,7 +122,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 
 
-<h3> Credit Spreads (Cash & Synthetic) </h3>
+<h3> CREDIT SPREADS (CASH & SYNTHETIC) </h3>
 
 <h5> Investment-Grade Credit Spreads (OAS)</h5>
 <div class="video-container">
