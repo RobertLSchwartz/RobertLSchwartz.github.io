@@ -21,13 +21,16 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <br>
 
 <h3> THE LABOR MARKET </h3>
+Following the passing of the Social Security Act of 1935, the United States implemented an unemployment insurance system designed to act as a safety net for individuals who recently separated from their previous employer, or dropped below full-time employment, and needed to temporarily supplement their income. Claims requesting unemployment insurance benefits are tracked at the state level and aggregated to the federal level in the form of "initial unemployment claims" and "continued unemployment claims".
 
 <h5> Initial Unemployment Claims </h5>
+*Initial Unemployment Claims are published weekly and measure the number of people who have filed for unemployment insurance for the first time in the past week.*
 <div class="video-container">
   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tIt&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Continued Unemployment Claims </h5>
+*Continued Unemployment Claims are published weekly and measure the number of people who have previously filed an initial unemployment claim, have experienced a week of unemployment, and have subsequently filed a continued claim requesting unemployment insurance benefits.*
 <div class="video-container">
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tID&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
@@ -35,6 +38,12 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <h5> Unemployment Rate </h5>
 <div class="video-container">
    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> JOLTS: All Components </h5>
+*YoY Percent Change* <br>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13uH6&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> JOLTS: Job Openings </h5>
