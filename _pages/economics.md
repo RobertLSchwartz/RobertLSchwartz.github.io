@@ -29,81 +29,81 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 <h5> Continued Unemployment Claims </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tID&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tID&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Unemployment Rate </h5>
 <div class="video-container">
-   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> JOLTS: Job Openings </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJm&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJm&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> JOLTS: Layoffs </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJu&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJu&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Non-Farm Payrolls (Hiring) </h5>
 *MoM change in number of persons employed* <br>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJI&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJI&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Labor Supply & Demand: Job Openings Exceed Available Workers </h5> <br>
 *If the civilian labor force is greater than employment plus job openings, the economy has immediate capacity to fill open positions.*
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJN&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tJN&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Average Hourly Earnings (Wages) </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tK4&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tK4&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 <br>
 
-<h3> Credit Spreads (Cash & Synthetic) </h3><br>
-<h5> Investment-Grade Credit Spreads (OAS)</h5>
+
+
+<h3> Real Activity </h3><br>
+---
+<h5> Real GDP (Annualized Rate) </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKn&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tPG&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
-<h5> Investment-Grade BBB-Rated Credit Spreads (OAS) </h5>
+<h5> Real GDP (Annualized Rate) </h5>
 <div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKu&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tPO&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
+<br>
 
-<h5> High Yield Credit Spreads (OAS) </h5>
-<div class="video-container">
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKb&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-</div><br>
 
-<h5> Investment-Grade Credit Spreads (CDS) </h5>
-<br>
-<h5> High Yield Credit Spreads (CDS) </h5>
-<br>
-<h5> Emerging Market Credit Spreads (CDS) </h5>
-<br>
-<h5> Mortgage-Backed Security Spreads (CDS) </h5>
-<br>
 
 <h3> Prices </h3><br>
 ---
-<h5> CPI </h5>
-<br>
-<h5> Core CPI</h5>
-<br>
+<h5> Headline CPI & Core CPI </h5>
+*Consumer Price Indices, YoY Percent Change*
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tRz&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
 <h5> CPI Attribution </h5>
-<br>
-<h5> PCE </h5>
-<br>
-<h5> Core PCE </h5>
-<br>
+
+<h5> Headline PCE, Core PCE, & Trimmed-Mean PCE </h5>
+*Personal Consumption Expenditures: Chain-type Price Index, YoY Percent Change*
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tRM&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
 <h5> PPI </h5>
-<br>
+<div class="video-container">
+
+</div><br>
+
+
 
 <h3> Interest Rates </h3><br>
 ---
@@ -120,7 +120,29 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <h5> 10s30s </h5>
 <br>
 
-<h3> Real Activity </h3><br>
----
-<h5> Real GDP (Annualized Rate) </h5>
+
+
+<h3> Credit Spreads (Cash & Synthetic) </h3><br>
+<h5> Investment-Grade Credit Spreads (OAS)</h5>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKn&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> Investment-Grade BBB-Rated Credit Spreads (OAS) </h5>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKu&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> High Yield Credit Spreads (OAS) </h5>
+<div class="video-container">
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tKb&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+</div><br>
+
+<h5> Investment-Grade Credit Spreads (CDS) </h5>
+<br>
+<h5> High Yield Credit Spreads (CDS) </h5>
+<br>
+<h5> Emerging Market Credit Spreads (CDS) </h5>
+<br>
+<h5> Mortgage-Backed Security Spreads (CDS) </h5>
 <br>
