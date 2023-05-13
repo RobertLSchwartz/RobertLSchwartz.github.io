@@ -24,7 +24,7 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 
 <h5> Initial Unemployment Claims </h5>
 <div class="video-container">
-  <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tIt&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+  <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tIt&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 </div><br>
 
 <h5> Continued Unemployment Claims </h5>
