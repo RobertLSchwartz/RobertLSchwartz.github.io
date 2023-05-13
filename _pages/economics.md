@@ -7,9 +7,20 @@ author_profile: true
 comments: true
 ---
 
-<h2> Economics Dashboard </h2><br>
+<h2> Economics Dashboard </h2>
+This webpage hosts economic data sourced from the Federal Reserve Economic Database ("FRED"). For quick navigation, click a section below. <br>
 
-<h3> Labor Market </h3><br>
+1. The Labor Market
+2. The Consumer
+3. The Firm
+4. Real Economic Activity
+5. Prices
+6. Interest Rates
+7. Credit Spreads (Cash & Synthetic)
+
+<br>
+
+<h3> Labor Market </h3>
 
 <h5>Initial Unemployment Claims</h5>
 <div class="video-container">
