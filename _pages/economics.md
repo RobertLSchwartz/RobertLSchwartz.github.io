@@ -21,9 +21,10 @@ This webpage hosts economic data sourced from the Federal Reserve Economic Datab
 <br>
 
 <h4> THE LABOR MARKET </h4>
+**UNEMPLOYMENT INSURANCE**
 Following the passing of the Social Security Act of 1935, the United States implemented an unemployment insurance system designed to act as a safety net for individuals who recently separated from their previous employer, or dropped below full-time employment, and needed to temporarily supplement their income. Claims requesting unemployment insurance benefits are tracked at the state level and aggregated to the federal level in the form of "initial unemployment claims" and "continued unemployment claims".
 
-<h6> Initial Unemployment Claims </h6>
+<h7> Initial Unemployment Claims </h7>
 *Initial Unemployment Claims are published weekly and measure the number of people who have filed for unemployment insurance for the first time in the past week.*
 <div class="video-container">
   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tIt&width=870&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:870px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
@@ -41,7 +42,7 @@ Following the passing of the Social Security Act of 1935, the United States impl
 </div><br>
 
 **JOLTS REPORT**
-*The Job Openings and Labor Turnover Survey ("JOLTS") is published monthly by the Bureau of Labor Statistics ("BLS") and serves as a indicator of un-met demand in the labor market. Statistics are reported include: total employment, job openings, hires, quits, layoffs and discharges, and other separations. Statistics are generated through sampling of businesses across the United States.*
+*The Job Openings and Labor Turnover Survey ("JOLTS") is published monthly by the Bureau of Labor Statistics ("BLS") and serves as a indicator of un-met demand in the labor market. Statistics reported include: total employment, job openings, hires, quits, layoffs and discharges, and other separations. Statistics are generated through sampling of businesses across the United States.*
 
 <h6> JOLTS: All Components </h6>
 *YoY Percent Change* <br>
