@@ -14,6 +14,11 @@ Source: Federal Reserve Economic Database
 Initial Unemployment Claims <br><br>
 Continued Unemployment Claims <br><br>
 Unemployment Rate <br><br>
+<div class="video-container">
+   <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=13tI5&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy">
+  </iframe>
+</div><br><br>
+
 JOLTS: Job Openings <br><br>
 JOLTS: Layoffs <br><br>
 Non-Farm Payrolls (hiring): MoM change in number of persons employed <br><br>
