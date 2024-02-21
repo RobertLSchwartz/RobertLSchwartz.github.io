@@ -2,6 +2,27 @@
 layout: home
 classes: wide
 author_profile: true
+
+feature_row:
+  - image_path: /assets/Stealth Company Logo.jpg
+    title: "Company 1"
+    excerpt: "Sample text 1 with **markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/Stealth Company Logo.jpg
+    title: "Company 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--secondar"
+  - image_path: /assets/Stealth Company Logo.jpg
+    title: "Company 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 <p style="font-size:0.75em">
 
@@ -16,6 +37,7 @@ author_profile: true
 
 <h4> Angel Investments </h4>
 <p style="font-size:0.75em">
+  {% include feature_row %}
   Company 1 <br> <br>
   <img src="/assets/Stealth Company Logo.jpg" alt="Portfolio Company" width="100" height="200">
 
