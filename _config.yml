@@ -110,15 +110,15 @@ author:
   location         : "Pittsburgh, PA"
   email            :
   links:
-    - label: "Indiana University of Pennsylvania"
-      icon: "fa fa-university"
-      url: "https://iup.edu/"
     - label: "Carnegie Mellon University"
       icon: "fa fa-university"
       url: "https://www.cmu.edu/tepper/programs/mba/"
     - label: "Pennsylvania State University"
       icon: "fa fa-university"
       url: "https://www.psu.edu/"
+    - label: "Indiana University of Pennsylvania"
+      icon: "fa fa-university"
+      url: "https://iup.edu/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
