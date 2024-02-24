@@ -119,7 +119,7 @@ author:
     - label: "Pennsylvania State University"
       icon: "fa fa-university"
       url: "https://www.psu.edu/"
-      - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
