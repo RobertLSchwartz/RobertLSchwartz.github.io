@@ -1,10 +1,11 @@
 # main links
 main:
-  - title: "Economics Dashboard"
-    url: /economics/
 
   - title: "99 Tartans"
     url: /99T/
+  
+  - title: "Economics Dashboard"
+    url: /economics/
 
   - title: "Resume"
     url: /cv/
