@@ -7,11 +7,11 @@ author_profile: true
 comments: true
 gallery:
   - url: /assets/Paper_1.png
-    image_path: /assets/Paper_1.png
+    image_path: /assets/Paper_1_small.png
     alt: "sovaSage"
     title: "sovaSage"
   - url: /assets/Paper_2.png
-    image_path: /assets/Paper_2.png
+    image_path: /assets/Paper_2_small.png
     alt: "Arieca"
     title: "Arieca"
 ---
