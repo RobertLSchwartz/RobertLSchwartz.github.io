@@ -3,15 +3,15 @@ main:
 
   - title: "99 Tartans"
     url: /99T/
-  
+ 
+  - title: "Publications"
+    url: /publications/
+    
   - title: "Economics Dashboard"
     url: /economics/
 
   - title: "Resume"
     url: /cv/
-
-  - title: "Publications"
-    url: /publications/
 
   - title: "Lecture Resources"
     url: /lecture/
