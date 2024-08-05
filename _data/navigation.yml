@@ -10,8 +10,8 @@ main:
   - title: "Economics Dashboard"
     url: /economics/
 
-  - title: "Resume"
-    url: /cv/
+  - title: "Chartbooks"
+    url: /chartbooks/
 
   - title: "Lecture Resources"
     url: /lecture/
