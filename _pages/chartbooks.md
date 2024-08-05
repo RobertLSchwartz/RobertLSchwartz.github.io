@@ -8,18 +8,18 @@ comments: true
 ---
 #### Chartbooks
 1. Long-Term Economic Data
+ * Interest Rates
+ * Prices
+ * Economic Activity
+ * Labor
+ * Fiscal Policy
 2. Long-Term Capital Markets Data
+ * Index Total Returns
+ * Index Risk Statistics
+ * Index Risk-Adjusted Returns
 3. US Company Data
- * Revenue Growth (YoY)
- * Gross Margins
- * Operating Margins
- * Net Margins
- * NOPAT
- * Capital Expenditures]
- * Free Cash Flow
- * Free Cash Flow to the Firm
- * Free Cash Flow to Equity
- * Dividends
- * Buybacks
+ * Operating Performance
+ * Capital Expenditures
+ * Dividends and Buybacks
  * Dividend Payout Ratio
  * Retention Ratio
