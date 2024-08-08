@@ -17,6 +17,7 @@ comments: true
  * Index Total Returns
  * Index Risk Statistics
  * Index Risk-Adjusted Returns
+ * Index Correlations
 3. US Company Data
  * Operating Performance
  * Capital Expenditures
