@@ -1,7 +1,7 @@
 # main links
 main:
 
-  - title: "99 Tartans"
+  - title: "Angel Investing"
     url: /99T/
  
   - title: "Publications"
@@ -13,5 +13,5 @@ main:
   - title: "Chartbooks"
     url: /chartbooks/
 
-  - title: "Lecture Resources"
+  - title: "Blog"
     url: /lecture/
