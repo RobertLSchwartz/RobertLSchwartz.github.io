@@ -1,11 +1,11 @@
 ---
-title:  "About"
+title:  "Blog"
 layout: single
 classes: wide
-permalink: /about/
+permalink: /blog/
 author_profile: true
 comments: true
 ---
 
-### About
+### Blog Posts
 ---
