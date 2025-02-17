@@ -2,6 +2,9 @@
 title:  "Medical Device Cybersecurity"
 date: 2025-02-17
 permalink: /posts/2025/02/medical-device-cybersecurity/
+classes: wide
+header:
+  image: /assets/images/page-header-image.png
 ---
 
 #### Supply Chain Risks in Tangible and Intangible Goods Markets
