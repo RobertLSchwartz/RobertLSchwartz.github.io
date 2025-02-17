@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "Medical Device Cybersecurity"
-categories: 
-  - Jekyll
-tags:
-  - update
+date: 2025-02-17
+permalink: /posts/2025/02/medical-device-cybersecurity/
 ---
 
 #### Supply Chain Risks in Tangible and Intangible Goods Markets
