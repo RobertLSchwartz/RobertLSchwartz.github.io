@@ -5,7 +5,6 @@ categories:
   - Jekyll
 tags:
   - update
-  - permalink: /posts/2025/07/medical-device-cybersecurity/
 ---
 
 #### Supply Chain Risks in Tangible and Intangible Goods Markets
