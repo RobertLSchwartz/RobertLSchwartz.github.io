@@ -11,6 +11,8 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 
 ### Chartbooks
 1. Equity Risk Premiums & Credit Spreads
+<object data="../assets/ERP and Credit Spreads.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 2. Capital Market Returns
 3. Credit Issuance
 4. M&A and IPOs
