@@ -12,7 +12,7 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 ### Chartbooks
 1. Equity Risk Premiums & Credit Spreads
 2. [Equity Risk Premiums & Credit Spreads](/assets/ERP and Credit Spreads.pdf){:target="_blank"}
-
+<object data="../assets/ERP and Credit Spreads.pdf" width="100" height="100" type='application/pdf'></object>
 
 3. Capital Market Returns
 4. Credit Issuance
