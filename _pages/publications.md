@@ -17,4 +17,6 @@ gallery:
 ---
 #### Publications
 Below are two academic publications co-authored on the performance of hedge funds.
+[Paper #1](/assets/Lawson Schwartz 2018.pdf){:target="_blank"}
+[Paper #2](/assets/Lawson Schwartz Thomas 2021.pdf){:target="_blank"}
 {% include gallery %}
