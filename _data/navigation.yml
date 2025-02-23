@@ -7,8 +7,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Economics Dashboard"
-    url: /economics/
+  - title: "What I'm Reading"
+    url: /reading/
 
   - title: "Chartbooks"
     url: /chartbooks/
