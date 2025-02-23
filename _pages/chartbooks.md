@@ -19,3 +19,4 @@ Below are several third-party chartbooks available online free of charge. JP Mor
 1. [JP Morgan Guide to the Markets](/assets/2025 JPM G2M.pdf){:target="_blank"}
 2. [NVCA Venture Monitor](/assets/2024 NVCA Chartbook.pdf){:target="_blank"}
 3. [SIFMA Capital Markets Fact Book](/assets/2024 SIFMA.pdf){:target="_blank"}
+4. [EIA Short-Term Energy Outlook](/assets/EIA ST Energy Outlook.pdf){:target="_blank"}
