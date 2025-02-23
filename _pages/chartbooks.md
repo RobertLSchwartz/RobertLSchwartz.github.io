@@ -11,15 +11,16 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 
 ### Chartbooks
 1. Equity Risk Premiums & Credit Spreads
-<object data="../assets/ERP and Credit Spreads.pdf" width="1000" height="1000" type='application/pdf'></object>
+2. [Equity Risk Premiums & Credit Spreads](/assets/ERP and Credit Spreads.pdf){:target="_blank"}
 
-2. Capital Market Returns
-3. Credit Issuance
-4. Interest Rates (Treasuries, Mortgages, FFR, etc.)
-5. M&A and IPOs
-6. Oil Markets
-7. Macroeconomic Data
-8. Company Fundamentals
+
+3. Capital Market Returns
+4. Credit Issuance
+5. Interest Rates (Treasuries, Mortgages, FFR, etc.)
+6. M&A and IPOs
+7. Oil Markets
+8. Macroeconomic Data
+9. Company Fundamentals
 
 ### Other Useful Chartbooks
 1. JP Morgan Guide to the Markets: https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/
