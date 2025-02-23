@@ -16,7 +16,15 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 ### Third Party Chartbooks
 Below are several third-party chartbooks available online free of charge. JP Morgan offers the Guide to the Markets, which pairs well with David Kelly's Notes on the Week Ahead podcast. The National Venture Capital Association (NVCA) - in partnership with PitchBook - offers the a terrific quarterly chartbook covering venture equity and venture debt. For broad capital market trends, SIFMA is an excellent place to go.<br>
 
-1. [JP Morgan Guide to the Markets](/assets/2025 JPM G2M.pdf){:target="_blank"}
-2. [NVCA Venture Monitor](/assets/2024 NVCA Chartbook.pdf){:target="_blank"}
-3. [SIFMA Capital Markets Fact Book](/assets/2024 SIFMA.pdf){:target="_blank"}
-4. [EIA Short-Term Energy Outlook](/assets/EIA ST Energy Outlook.pdf){:target="_blank"}
+#### JP Morgan
+[JP Morgan Guide to the Markets](/assets/2025 JPM G2M.pdf){:target="_blank"}
+
+#### National Venture Capital Association
+[NVCA Venture Monitor](/assets/2024 NVCA Chartbook.pdf){:target="_blank"}
+
+#### SIFMA
+[SIFMA Capital Markets Fact Book](/assets/2024 SIFMA.pdf){:target="_blank"}
+
+#### U.S. Energy Information Administration
+[EIA Short-Term Energy Outlook](/assets/EIA ST Energy Outlook.pdf){:target="_blank"}
+
