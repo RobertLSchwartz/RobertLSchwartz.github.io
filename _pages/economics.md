@@ -35,11 +35,11 @@ Michael Mauboussin is Head of Consilient Research for Counterpoint Global over a
 
 #### OakTree Capital Management
 Howard Marks is terrific. His content is great for those looking to take a fundamental analysis POV on asset allocation. Some of my favorite pieces he has put out lately are below. <br>
-[Sea Change](/assets/OakTree - Sea Change.pdf){:target="_blank"}
+[Sea Change](/assets/Sea Change.pdf){:target="_blank"}
 <br>
-[Further Thoughts on Sea Change](/assets/OakTree - Further Thoughts on Sea Change.pdf){:target="_blank"}
+[Further Thoughts on Sea Change](/assets/Further Thoughts on Sea Change.pdf){:target="_blank"}
 <br>
-[Ruminating on Asset Allocation](/assets/OakTree - Asset Allocation.pdf){:target="_blank"}
+[Ruminating on Asset Allocation](/assets/Asset Allocation.pdf){:target="_blank"}
 <br>
-[The Impact of Debt](/assets/OakTree - The Impact of Debt.pdf){:target="_blank"}
+[The Impact of Debt](/assets/The Impact of Debt.pdf){:target="_blank"}
 <br>
