@@ -22,6 +22,6 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 <object data="../assets/ERP and Credit Spreads.pdf" width="10" height="10" type='application/pdf'></object>
 
 ### Other Useful Chartbooks
-1. JP Morgan Guide to the Markets: https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/
-2. NVCA Venture Monitor: https://nvca.org/pitchbook-nvca-venture-monitor/
-3. SIFMA Capital Markets Fact Book: https://www.sifma.org/resources/research/statistics/fact-book/
+1. [JP Morgan Guide to the Markets](/assets/2025 JPM G2M.pdf){:target="_blank"}
+2. [NVCA Venture Monitor](/assets/2024 NVCA Chartbook.pdf){:target="_blank"}
+3. [SIFMA Capital Markets Fact Book](/assets/2024 SIFMA.pdf){:target="_blank"}
