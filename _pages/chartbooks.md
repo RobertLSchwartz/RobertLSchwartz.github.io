@@ -15,10 +15,11 @@ Below are a series of chartbooks spanning macroeconomics and capital markets. Th
 
 2. Capital Market Returns
 3. Credit Issuance
-4. M&A and IPOs
-5. Oil Markets
-6. Macroeconomic Data
-7. Company Fundamentals
+4. Interest Rates (Treasuries, Mortgages, FFR, etc.)
+5. M&A and IPOs
+6. Oil Markets
+7. Macroeconomic Data
+8. Company Fundamentals
 
 ### Other Useful Chartbooks
 1. JP Morgan Guide to the Markets: https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/
