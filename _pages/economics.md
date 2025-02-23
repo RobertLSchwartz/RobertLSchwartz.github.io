@@ -39,13 +39,13 @@ Howard Marks is terrific. His content is great for those looking to take a funda
 <br>
 [Further Thoughts on Sea Change](/assets/Further Thoughts on Sea Change.pdf){:target="_blank"}
 <br>
-[Ruminating on Asset Allocation](/assets/Asset Allocation.pdf){:target="_blank"}
+[Ruminating on Asset Allocation](/assets/Ruminating on Asset Allocation.pdf){:target="_blank"}
 <br>
 [The Impact of Debt](/assets/The Impact of Debt.pdf){:target="_blank"}
 <br>
 
 #### JP Morgan
 Michael Cembalest is the Chairman of Market and Investment Strategy over at J.P. Morgan. He puts out a series or papers called Eye on the Market. I typically read two versions. The first is the Energy Outlook. The second is the broader market outlook. <br>
-[2025 Eye on the Market: Market Outlook](/assets/JP Morgan 2025 Eye On The Market.pdf){:target="_blank"}
+[2025 Eye on the Market: Market Outlook](/assets/JP Morgan 2025 Eye On The Market Outlook.pdf){:target="_blank"}
 <br>
 [2024 Eye on the Market: Energy](/assets/JP Morgan 2024 Eye On The Market Energy.pdf){:target="_blank"}
