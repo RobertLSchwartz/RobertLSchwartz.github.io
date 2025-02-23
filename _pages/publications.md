@@ -16,7 +16,7 @@ gallery:
     title: "Hedge Funds, Arbitrage, and Timing"
 ---
 #### Publications
-Below are two academic publications co-authored on the performance of hedge funds.
+Below are two academic publications on the performance of hedge funds.
 <br />
 [Paper #1](/assets/Lawson Schwartz 2018.pdf){:target="_blank"}
 <br />
