@@ -22,3 +22,6 @@ Below are two academic publications on the performance of hedge funds.
 <br />
 [Paper #2](/assets/Lawson Schwartz Thomas 2021.pdf){:target="_blank"}
 {% include gallery %}
+
+<a href="/assets/Schwartz Lawson 2018.pdf">
+  <img src="/assets/Paper_1.png" alt="" width="400">
