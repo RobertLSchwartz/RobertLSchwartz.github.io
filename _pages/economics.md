@@ -11,7 +11,7 @@ comments: true
 When I read something particularly rewarding I like to share. All of the files below are already freely available on the internet. I'm purely curating them in a centralized place based on what I see as valuable reading material. Feel free to browse. If you enjoyed something, send me a note on LinkedIn! <br>
 
 #### Counterpoint Global Insights
-Michael Mauboussin is Head of Consilient Research for Counterpoint Global over at Morgan Stanley. I find this articles to be fantastic because they take finance theory and integrate it into practical reality. If you are taking graduate-level finance courses, I'd recommend reading these articles alongside your coursework. <br>
+Michael Mauboussin is Head of Consilient Research for Counterpoint Global over at Morgan Stanley. I find this articles to be fantastic because they take finance theory and integrate it into practical application. If you are taking graduate-level finance courses, I'd recommend reading these articles alongside your coursework. <br>
 [Era of Easy Money](/assets/Counterpoint - Era of Easy Money.pdf){:target="_blank"}
 <br>
 [Return on Invested Capital](/assets/Counterpoint - ROIC.pdf){:target="_blank"}
@@ -45,7 +45,7 @@ Howard Marks is terrific. His content is great for those looking to take a funda
 <br>
 
 #### JP Morgan
-Michael Cembalest is the Chairman of Market and Investment Strategy over at J.P. Morgan. He puts out a series or papers called Eye on the Market. I typically read two versions. The first is the Energy Outlook. The second is the broader market outlook. <br>
+Michael Cembalest is the Chairman of Market and Investment Strategy over at J.P. Morgan. He puts out a series of papers called 'Eye on the Market'. I typically read two versions. The first is the Energy Outlook. The second is the broader market outlook. <br>
 [2025 Eye on the Market: Market Outlook](/assets/JP Morgan 2025 Eye On The Market Outlook.pdf){:target="_blank"}
 <br>
 [2024 Eye on the Market: Energy](/assets/JP Morgan 2024 Eye On The Market Energy.pdf){:target="_blank"}
