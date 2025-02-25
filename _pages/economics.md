@@ -11,7 +11,7 @@ comments: true
 When I read something particularly rewarding I like to share. All of the files below are already freely available on the internet. I'm purely curating them in a centralized place based on what I see as valuable reading material. Feel free to browse. If you enjoyed something, send me a note on LinkedIn! <br>
 
 #### Counterpoint Global Insights
-Michael Mauboussin is Head of Consilient Research for Counterpoint Global over at Morgan Stanley. I find this articles to be fantastic because they take finance theory and integrate it into practical application. If you are taking graduate-level finance courses, I'd recommend reading these articles alongside your coursework. <br>
+Michael Mauboussin is Head of Consilient Research for Counterpoint Global over at Morgan Stanley. I find his work to be fantastic because his team takes finance theory and integrates it into practical application. If you are taking graduate-level finance courses, I'd recommend reading these articles alongside your coursework. <br>
 [Era of Easy Money](/assets/Counterpoint - Era of Easy Money.pdf){:target="_blank"}
 <br>
 [Return on Invested Capital](/assets/Counterpoint - ROIC.pdf){:target="_blank"}
