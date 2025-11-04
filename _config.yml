@@ -296,21 +296,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# This was added in 2025 to enable "cards" on the chartbooks page (instead of just having blue hyperlinks everywhere)
-collections:
-  chartbooks:
-    output: true
-    permalink: /chartbooks/:path/
-
-# (Optional, but handy) sensible defaults for items in this collection
-defaults:
-  - scope:
-      path: ""
-      type: chartbooks
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      share: false
-      comments: false
