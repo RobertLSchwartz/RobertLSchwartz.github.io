@@ -32,7 +32,9 @@ gallery:
     image_path: /assets/Rockies 9.jpg
 
   - url: /assets/Rockies 10.jpg
-    image_path: /assets/Rockies 10.jpg---
+    image_path: /assets/Rockies 10.jpg
+
+---
 
 #### The Canadian Rockies
 Alberta, Canada
