@@ -12,10 +12,10 @@ comments: true
 Below are two academic publications on the performance of hedge funds.
 
 <div style="display: flex; gap: 20px;">
-  <a href="/assets/Lawson Schwartz 2018.pdf">
+  <a href="/assets/Lawson Schwartz 2018.pdf" target="_blank">
     <img src="/assets/Paper_1.png" alt="Lawson Schwartz 2018" width="450">
   </a>
-  <a href="/assets/Lawson Schwartz Thomas 2021.pdf">
+  <a href="/assets/Lawson Schwartz Thomas 2021.pdf" target="_blank">
     <img src="/assets/Paper_1.png" alt="Lawson Schwartz Thomas 2021" width="450">
   </a>
 </div>
