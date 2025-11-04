@@ -1,15 +1,12 @@
 # main links
 main:
 
-  - title: "White Papers"
-    url: /white papers/
- 
+  - title: "Angel Investing"
+    url: /99T/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Angel Investing"
-    url: /99T/
-    
   - title: "What I'm Reading"
     url: /reading/
 
