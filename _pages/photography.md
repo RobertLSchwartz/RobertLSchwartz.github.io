@@ -7,35 +7,6 @@ author_profile: true
 comments: true
 feature_row:
 gallery:
-  - url: /assets/Rockies 4.jpg
-    image_path: /assets/Rockies 4.jpg
-
-  - url: /assets/Rockies 2.jpg
-    image_path: /assets/Rockies 2.jpg
-    
-  - url: /assets/Rockies 3.jpg
-    image_path: /assets/Rockies 3.jpg
-    
-  - url: /assets/Rockies 6.jpg
-    image_path: /assets/Rockies 6.jpg
-    
-  - url: /assets/Rockies 7.jpg
-    image_path: /assets/Rockies 7.jpg
-    
-  - url: /assets/Rockies 8.jpg
-    image_path: /assets/Rockies 8.jpg
-
-  - url: /assets/Rockies 0.jpg
-    image_path: /assets/Rockies 0.jpg
-
-  - url: /assets/Rockies 9.jpg
-    image_path: /assets/Rockies 9.jpg
-
-  - url: /assets/Rockies 10.jpg
-    image_path: /assets/Rockies 10.jpg
-
-
-gallery_2:
   - url: /assets/Cali/Cali16.jpg
     image_path: /assets/Cali/Cali16.jpg
 
@@ -89,12 +60,65 @@ gallery_2:
  
   - url: /assets/Cali/Cali4.jpg
     image_path: /assets/Cali/Cali4.jpg   
+
+gallery_2:
+  - url: /assets/Rockies 4.jpg
+    image_path: /assets/Rockies 4.jpg
+
+  - url: /assets/Rockies 2.jpg
+    image_path: /assets/Rockies 2.jpg
+    
+  - url: /assets/Rockies 3.jpg
+    image_path: /assets/Rockies 3.jpg
+    
+  - url: /assets/Rockies 6.jpg
+    image_path: /assets/Rockies 6.jpg
+    
+  - url: /assets/Rockies 7.jpg
+    image_path: /assets/Rockies 7.jpg
+    
+  - url: /assets/Rockies 8.jpg
+    image_path: /assets/Rockies 8.jpg
+
+  - url: /assets/Rockies 0.jpg
+    image_path: /assets/Rockies 0.jpg
+
+  - url: /assets/Rockies 9.jpg
+    image_path: /assets/Rockies 9.jpg
+
+  - url: /assets/Rockies 10.jpg
+    image_path: /assets/Rockies 10.jpg
+
+
+gallery_3:
+  - url: /assets/Germany/Germany1.jpg
+    image_path: /assets/Germany/Germany1.jpg
+
+  - url: /assets/Germany/Germany2.jpg
+    image_path: /assets/Germany/Germany2.jpg
+
+  - url: /assets/Germany/Germany3.jpg
+    image_path: /assets/Germany/Germany3.jpg
+
+  - url: /assets/Germany/Germany4.jpg
+    image_path: /assets/Germany/Germany4.jpg
+
+  - url: /assets/Germany/Germany5.jpg
+    image_path: /assets/Germany/Germany5.jpg
+
+  - url: /assets/Germany/Germany6.jpg
+    image_path: /assets/Germany/Germany6.jpg
+
+  - url: /assets/Germany/Germany7.jpg
+    image_path: /assets/Germany/Germany7.jpg
+
+  - url: /assets/Germany/Germany8.jpg
+    image_path: /assets/Germany/Germany8.jpg
+
+  - url: /assets/Germany/Germany9.jpg
+    image_path: /assets/Germany/Germany9.jpg
 ---
 
-#### The Canadian Rockies
-Alberta, Canada
-
-**{% include gallery id="gallery" %}**
 
 #### California
 The Hearst Castle
@@ -102,5 +126,14 @@ The Hearst Castle
 Getty Villa
 <br>
 Ostrich Land
+**{% include gallery id="gallery" %}** 
 
-**{% include gallery id="gallery_2" %}** 
+
+#### The Canadian Rockies
+Alberta, Canada
+**{% include gallery id="gallery_2" %}**
+
+
+#### Germany
+Munich
+**{% include gallery id="gallery_3" %}** 
