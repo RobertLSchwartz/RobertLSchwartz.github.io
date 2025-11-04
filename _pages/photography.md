@@ -39,6 +39,18 @@ gallery_2:
   - url: /assets/Cali/Cali1.jpg
     image_path: /assets/Cali/Cali1.jpg
 
+  - url: /assets/Cali/Cali13.jpg
+    image_path: /assets/Cali/Cali13.jpg
+
+  - url: /assets/Cali/Cali16.jpg
+    image_path: /assets/Cali/Cali16.jpg
+    
+  - url: /assets/Cali/Cali14.jpg
+    image_path: /assets/Cali/Cali14.jpg
+
+  - url: /assets/Cali/Cali15.jpg
+    image_path: /assets/Cali/Cali15.jpg
+  
   - url: /assets/Cali/Cali2.jpg
     image_path: /assets/Cali/Cali2.jpg
 
@@ -72,17 +84,7 @@ gallery_2:
   - url: /assets/Cali/Cali12.jpg
     image_path: /assets/Cali/Cali12.jpg
 
-  - url: /assets/Cali/Cali13.jpg
-    image_path: /assets/Cali/Cali13.jpg
 
-  - url: /assets/Cali/Cali14.jpg
-    image_path: /assets/Cali/Cali14.jpg
-
-  - url: /assets/Cali/Cali15.jpg
-    image_path: /assets/Cali/Cali15.jpg
-
-  - url: /assets/Cali/Cali16.jpg
-    image_path: /assets/Cali/Cali16.jpg
 
 ---
 
@@ -93,5 +95,6 @@ Alberta, Canada
 
 #### California
 The Hearst Castle
+Getty Villa
 
 **{% include gallery id="gallery_2" %}** 
