@@ -39,6 +39,9 @@ gallery_2:
   - url: /assets/Cali/Cali16.jpg
     image_path: /assets/Cali/Cali16.jpg
 
+  - url: /assets/Cali/Cali20.jpg
+    image_path: /assets/Cali/Cali20.jpg
+    
   - url: /assets/Cali/Cali17.jpg
     image_path: /assets/Cali/Cali17.jpg
 
