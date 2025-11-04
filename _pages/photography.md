@@ -7,16 +7,16 @@ author_profile: true
 comments: true
 feature_row:
 gallery:
-  - image_path: /assets/Rockies 1.jpg
+  - url: /assets/Rockies 2.jpg
+    image_path: /assets/Rockies 2.jpg
     alt: "sovaSage"
     title: "sovaSage"
-  - image_path: /assets/Rockies 2.jpg
+  - url: /assets/Rockies 3.jpg
+    image_path: /assets/Rockies 3.jpg
     alt: "sovaSage"
     title: "sovaSage"
-  - image_path: /assets/Rockies 3.jpg
-    alt: "sovaSage"
-    title: "sovaSage"
-  - image_path: /assets/Rockies 6.jpg
+  - url: /assets/Rockies 6.jpg
+    image_path: /assets/Rockies 6.jpg
     alt: "sovaSage"
     title: "sovaSage"
   - image_path: /assets/Rockies 7.jpg
