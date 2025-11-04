@@ -100,5 +100,7 @@ Alberta, Canada
 The Hearst Castle
 <br>
 Getty Villa
+<br>
+Ostrich Land
 
 **{% include gallery id="gallery_2" %}** 
