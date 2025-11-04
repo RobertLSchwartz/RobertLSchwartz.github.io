@@ -6,7 +6,7 @@ permalink: /photography/
 author_profile: true
 comments: true
 feature_row:
-gallery1:
+gallery:
   - url: /assets/Rockies 4.jpg
     image_path: /assets/Rockies 4.jpg
 
@@ -35,7 +35,7 @@ gallery1:
     image_path: /assets/Rockies 10.jpg
 
 
-    gallery2:
+gallery_2:
   - url: /assets/Cali/Cali1.jpg
     image_path: /assets/Cali/Cali1.jpg
 
@@ -89,9 +89,9 @@ gallery1:
 #### The Canadian Rockies
 Alberta, Canada
 
-{% include gallery1 %}
+{% include gallery %}
 
 #### California
 The Hearst Castle
 
-{% include gallery2 %}
+{% include gallery_2 %}
