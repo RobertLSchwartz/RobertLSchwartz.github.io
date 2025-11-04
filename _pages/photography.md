@@ -12,11 +12,6 @@ gallery:
     alt: "sovaSage"
     title: "sovaSage"
 
-  - url: https://www.vigilant-ops.com/
-    image_path: /assets/Vigilant_Ops_Logo.png
-    alt: "Vigilant Ops"
-    title: "Vigilant Ops"
-
   - url: https://www.modulehousing.com/
     image_path: /assets/Module_Logo.png
     alt: "Module"
