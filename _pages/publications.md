@@ -6,8 +6,9 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
-#### Publications
-<h3 class="archive__subtitle">Publicationss</h3>
+
+
+<h3 class="archive__subtitle">Publications</h3>
 Below are two academic publications on the performance of hedge funds.
 <br />
 
