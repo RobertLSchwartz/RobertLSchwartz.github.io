@@ -98,6 +98,7 @@ Alberta, Canada
 
 #### California
 The Hearst Castle
+<br>
 Getty Villa
 
 **{% include gallery id="gallery_2" %}** 
