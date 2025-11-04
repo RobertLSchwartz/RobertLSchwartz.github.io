@@ -36,14 +36,17 @@ gallery:
 
 
 gallery_2:
-  - url: /assets/Cali/Cali1.jpg
-    image_path: /assets/Cali/Cali1.jpg
+  - url: /assets/Cali/Cali16.jpg
+    image_path: /assets/Cali/Cali16.jpg
+
+  - url: /assets/Cali/Cali17.jpg
+    image_path: /assets/Cali/Cali17.jpg
+
+  - url: /assets/Cali/Cali18.jpg
+    image_path: /assets/Cali/Cali18.jpg
 
   - url: /assets/Cali/Cali13.jpg
     image_path: /assets/Cali/Cali13.jpg
-
-  - url: /assets/Cali/Cali16.jpg
-    image_path: /assets/Cali/Cali16.jpg
     
   - url: /assets/Cali/Cali14.jpg
     image_path: /assets/Cali/Cali14.jpg
@@ -53,6 +56,9 @@ gallery_2:
   
   - url: /assets/Cali/Cali2.jpg
     image_path: /assets/Cali/Cali2.jpg
+
+  - url: /assets/Cali/Cali1.jpg
+    image_path: /assets/Cali/Cali1.jpg
 
   - url: /assets/Cali/Cali3.jpg
     image_path: /assets/Cali/Cali3.jpg
@@ -84,7 +90,8 @@ gallery_2:
   - url: /assets/Cali/Cali12.jpg
     image_path: /assets/Cali/Cali12.jpg
 
-
+  - url: /assets/Cali/Cali19.jpg
+    image_path: /assets/Cali/Cali19.jpg
 
 ---
 
