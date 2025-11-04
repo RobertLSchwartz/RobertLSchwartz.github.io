@@ -2,7 +2,7 @@
 title:  "Photography"
 layout: single
 classes: wide
-permalink: /Photography/
+permalink: /photography/
 author_profile: true
 comments: true
 feature_row:
