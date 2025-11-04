@@ -89,9 +89,9 @@ gallery_2:
 #### The Canadian Rockies
 Alberta, Canada
 
-{% include gallery %}
+**{% include gallery id="gallery" %}**
 
 #### California
 The Hearst Castle
 
-{% include gallery_2 %}
+**{% include gallery id="gallery_2" %}** 
