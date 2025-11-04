@@ -126,14 +126,14 @@ The Hearst Castle
 Getty Villa
 <br>
 Ostrich Land
-**{% include gallery id="gallery" %}** 
+{% include gallery id="gallery" %}
 
 
 #### The Canadian Rockies
 Alberta, Canada
-**{% include gallery id="gallery_2" %}**
+{% include gallery id="gallery_2" %}
 
 
 #### Germany
 Munich
-**{% include gallery id="gallery_3" %}** 
+{% include gallery id="gallery_3" %}
