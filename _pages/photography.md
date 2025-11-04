@@ -60,12 +60,6 @@ gallery_2:
   - url: /assets/Cali/Cali1.jpg
     image_path: /assets/Cali/Cali1.jpg
 
-  - url: /assets/Cali/Cali3.jpg
-    image_path: /assets/Cali/Cali3.jpg
-
-  - url: /assets/Cali/Cali4.jpg
-    image_path: /assets/Cali/Cali4.jpg
-
   - url: /assets/Cali/Cali5.jpg
     image_path: /assets/Cali/Cali5.jpg
 
@@ -84,15 +78,17 @@ gallery_2:
   - url: /assets/Cali/Cali10.jpg
     image_path: /assets/Cali/Cali10.jpg
 
-  - url: /assets/Cali/Cali11.jpg
-    image_path: /assets/Cali/Cali11.jpg
-
   - url: /assets/Cali/Cali12.jpg
     image_path: /assets/Cali/Cali12.jpg
 
   - url: /assets/Cali/Cali19.jpg
     image_path: /assets/Cali/Cali19.jpg
 
+  - url: /assets/Cali/Cali3.jpg
+    image_path: /assets/Cali/Cali3.jpg
+ 
+  - url: /assets/Cali/Cali4.jpg
+    image_path: /assets/Cali/Cali4.jpg   
 ---
 
 #### The Canadian Rockies
