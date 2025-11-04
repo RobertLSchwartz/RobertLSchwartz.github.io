@@ -6,7 +6,7 @@ permalink: /photography/
 author_profile: true
 comments: true
 feature_row:
-gallery:
+gallery1:
   - url: /assets/Rockies 4.jpg
     image_path: /assets/Rockies 4.jpg
 
@@ -34,9 +34,64 @@ gallery:
   - url: /assets/Rockies 10.jpg
     image_path: /assets/Rockies 10.jpg
 
+
+    gallery2:
+  - url: /assets/Cali/Cali1.jpg
+    image_path: /assets/Cali/Cali1.jpg
+
+  - url: /assets/Cali/Cali2.jpg
+    image_path: /assets/Cali/Cali2.jpg
+
+  - url: /assets/Cali/Cali3.jpg
+    image_path: /assets/Cali/Cali3.jpg
+
+  - url: /assets/Cali/Cali4.jpg
+    image_path: /assets/Cali/Cali4.jpg
+
+  - url: /assets/Cali/Cali5.jpg
+    image_path: /assets/Cali/Cali5.jpg
+
+  - url: /assets/Cali/Cali6.jpg
+    image_path: /assets/Cali/Cali6.jpg
+
+  - url: /assets/Cali/Cali7.jpg
+    image_path: /assets/Cali/Cali7.jpg
+
+  - url: /assets/Cali/Cali8.jpg
+    image_path: /assets/Cali/Cali8.jpg
+
+  - url: /assets/Cali/Cali9.jpg
+    image_path: /assets/Cali/Cali9.jpg
+
+  - url: /assets/Cali/Cali10.jpg
+    image_path: /assets/Cali/Cali10.jpg
+
+  - url: /assets/Cali/Cali11.jpg
+    image_path: /assets/Cali/Cali11.jpg
+
+  - url: /assets/Cali/Cali12.jpg
+    image_path: /assets/Cali/Cali12.jpg
+
+  - url: /assets/Cali/Cali13.jpg
+    image_path: /assets/Cali/Cali13.jpg
+
+  - url: /assets/Cali/Cali14.jpg
+    image_path: /assets/Cali/Cali14.jpg
+
+  - url: /assets/Cali/Cali15.jpg
+    image_path: /assets/Cali/Cali15.jpg
+
+  - url: /assets/Cali/Cali16.jpg
+    image_path: /assets/Cali/Cali16.jpg
+
 ---
 
 #### The Canadian Rockies
 Alberta, Canada
 
-{% include gallery %}
+{% include gallery1 %}
+
+#### California
+The Hearst Castle
+
+{% include gallery2 %}
