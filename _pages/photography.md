@@ -63,9 +63,6 @@ gallery_2:
   - url: /assets/Cali/Cali1.jpg
     image_path: /assets/Cali/Cali1.jpg
 
-  - url: /assets/Cali/Cali5.jpg
-    image_path: /assets/Cali/Cali5.jpg
-
   - url: /assets/Cali/Cali6.jpg
     image_path: /assets/Cali/Cali6.jpg
 
