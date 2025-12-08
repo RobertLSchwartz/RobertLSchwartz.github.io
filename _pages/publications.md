@@ -16,7 +16,7 @@ Below are two academic publications on the performance of hedge funds.
     <img src="/assets/Paper_1.png" alt="Lawson Schwartz 2018" width="450">
   </a>
   <a href="/assets/Lawson Schwartz Thomas 2021.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/Paper_1.png" alt="Lawson Schwartz Thomas 2021" width="450">
+    <img src="/assets/Paper_2.png" alt="Lawson Schwartz Thomas 2021" width="450">
   </a>
 </div>
 
