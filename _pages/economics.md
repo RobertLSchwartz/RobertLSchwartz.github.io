@@ -53,17 +53,9 @@ Michael Cembalest is the Chairman of Market and Investment Strategy over at J.P.
 #### Recommended Books
 Venture Capital and the Finance of Innovation by Andrew Metrick and Ayako Yasuda
 <br>
-Blue Ocean Strategy by W. Chan Kim and Renée Mauborgne
-<br>
-The Innovator’s DNA by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen
-<br>
-The Innovator’s Dilemma by Clayton M. Christensen
-<br>
-The Lean Product Playbook by Dan Olsen
-<br>
 The Strategy and Tactics of Pricing by Thomas T. Nagle and Georg Müller
 <br>
-Valuation: Measuring and Managing the Value of Companies by McKinsey & Company (Tim Koller, Marc Goedhart, and David Wessels)
+Valuation: Measuring and Managing the Value of Companies by Tim Koller, Marc Goedhart, and David Wessels
 <br>
 Investment Banking by Joshua Rosenbaum and Joshua Pearl
 <br>
@@ -75,3 +67,10 @@ Private Equity 4.0 by Clive Lipchin
 <br>
 Investments by Zvi Bodie, Alex Kane, and Alan J. Marcus
 <br>
+The Innovator’s DNA by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen
+<br>
+The Innovator’s Dilemma by Clayton M. Christensen
+<br>
+The Lean Product Playbook by Dan Olsen
+<br>
+Blue Ocean Strategy by W. Chan Kim and Renée Mauborgne
