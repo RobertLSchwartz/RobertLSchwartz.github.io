@@ -25,5 +25,5 @@ Below are two academic publications on the performance of hedge funds.
 <h3 class="archive__subtitle">White Papers</h3>
 <div style="display: flex; gap: 20px;">
 <a href="/assets/Cybersecurity Risks in Software Supply Chains.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/Cybersecurity.png" alt="Cybersecurity Risks in Software Supply Chains" width="285">
+  <img src="/assets/Cybersecurity.png" alt="Cybersecurity Risks in Software Supply Chains" width="290">
 </a>
