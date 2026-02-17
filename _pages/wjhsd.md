@@ -10,8 +10,6 @@ comments: true
 
 <h3 class="archive__subtitle">Magazines</h3>
 
-<div
-
 <iframe
 allowfullscreen="allowfullscreen"
 allow="clipboard-write"
@@ -21,4 +19,3 @@ src="https://heyzine.com/flip-book/866f97684b.html"
 style="border: 1px solid lightgray; width: 100%; height: 400px;">
 </iframe>
 
-</div>
