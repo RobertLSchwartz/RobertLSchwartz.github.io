@@ -24,7 +24,7 @@ description              : "A Personal Website"
 url                      : "RobertLSchwartz.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RobertLSchwartz/RobertLSchwartz.github.io"
-teaser                   : #
+teaser                   : # 
 logo                     : "assets/Bridge Logo Header.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
