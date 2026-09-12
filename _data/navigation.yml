@@ -1,23 +1,20 @@
 # main links
 main:
 
-  - title: "Angel Investing"
+  - title: "Venture Capital"
     url: /99T/
 
   - title: "Publications"
     url: /publications/
 
+  - title: "IUP"
+    url: /IUP/
+
   - title: "What I'm Reading"
     url: /reading/
-
-  - title: "Chartbooks"
-    url: /chartbooks/
 
   - title: "Photography"
     url: /photography/
 
-  - title: "IUP"
-    url: /IUP/
-    
-  - title: "WJHSD"
-    url: /wjhsd/
+  - title: "Chartbooks"
+    url: /chartbooks/
