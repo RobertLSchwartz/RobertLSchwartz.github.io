@@ -7,17 +7,15 @@ author_profile: true
 comments: true
 ---
 
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <title>IUP Mentee Intake Form</title>
-    <script async src="https://tally.so/widgets/embed.js"></script>
-    <style type="text/css">
-      html { margin: 0; height: 100%; overflow: hidden; }
-      iframe { position: absolute; top: 0; right: 0; bottom: 0; left: 0; border: 0; }
-    </style>
-  </head>
-  <body>
-    <iframe data-tally-src="https://tally.so/r/MeW5gl" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="IUP Mentee Intake Form"></iframe>
-  </body>
-</html>
+<div style="width: 100%; max-width: 950px; margin: 0 auto;">
+  <iframe
+    src="https://tally.so/embed/MeW5gl?alignLeft=1&hideTitle=1&transparentBackground=1"
+    width="100%"
+    height="1900"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    title="IUP Mentee Intake Form"
+    style="border: 0; width: 100%;">
+  </iframe>
+</div>
