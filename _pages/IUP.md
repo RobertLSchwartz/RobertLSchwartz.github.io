@@ -23,9 +23,9 @@ comments: false
 
 <div class="mentee-form-container">
 
-  <h2 style="text-align: left; margin-bottom: 1.5rem;">
+  <h4 style="text-align: left; margin-bottom: 1.5rem;">
     IUP Mentee Intake Form
-  </h2>
+  </h4>
 
   <iframe
     src="https://tally.so/embed/MeW5gl?alignLeft=1&hideTitle=1&transparentBackground=1"
