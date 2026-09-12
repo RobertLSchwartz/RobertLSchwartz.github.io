@@ -9,7 +9,7 @@ comments: false
 
 <style>
 .mentee-form-container {
-  width: 50%;
+  width: 75%;
   max-width: 950px;
   margin: 0 auto;
 }
