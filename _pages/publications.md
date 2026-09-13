@@ -21,6 +21,7 @@ Below are two academic publications on the performance of hedge funds.
   </a>
 </div>
 
+<br>
 
 <div class="home-section">
 <h3 class="archive__subtitle">White Papers</h3>
