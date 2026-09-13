@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "IUP"
-    url: /IUP/
-
   - title: "What I'm Reading"
     url: /reading/
+  
+  - title: "IUP"
+    url: /IUP/
 
   - title: "Photography"
     url: /photography/
