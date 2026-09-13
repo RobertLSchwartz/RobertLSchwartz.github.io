@@ -1,6 +1,8 @@
 # main links
 main:
-
+  - title: "Home"
+    url: /
+  
   - title: "Venture Capital"
     url: /99T/
 
