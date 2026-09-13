@@ -54,37 +54,3 @@ search: false
     height: 180px;
   }
 }
-
-/* ==========================================================================
-   BLACK NAVIGATION BAR
-   ========================================================================== */
-
-.masthead,
-.masthead__inner-wrap,
-.masthead__menu,
-.greedy-nav {
-  background-color: #111 !important;
-}
-
-.greedy-nav a,
-.masthead__menu-item a,
-.site-title {
-  color: #fff !important;
-}
-
-.greedy-nav a:hover,
-.masthead__menu-item a:hover {
-  color: #ccc !important;
-}
-
-.greedy-nav button {
-  background-color: #111 !important;
-}
-
-.greedy-nav .hidden-links {
-  background-color: #111 !important;
-}
-
-.greedy-nav .hidden-links a {
-  color: #fff !important;
-}
