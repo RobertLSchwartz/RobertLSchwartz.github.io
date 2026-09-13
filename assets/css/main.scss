@@ -54,3 +54,50 @@ search: false
     height: 180px;
   }
 }
+
+
+/* ==========================================================================
+   BLACK NAVIGATION BAR
+   ========================================================================== */
+
+.masthead {
+  background: #111;
+  border-bottom: none;
+}
+
+.masthead__inner-wrap {
+  background: #111;
+}
+
+.greedy-nav {
+  background: #111;
+}
+
+.greedy-nav a {
+  color: #fff;
+}
+
+.greedy-nav a:hover {
+  color: #ccc;
+}
+
+.masthead__menu-item a {
+  color: #fff;
+}
+
+.site-title {
+  color: #fff;
+}
+
+/* Mobile navigation button */
+.greedy-nav button {
+  background: #111;
+}
+
+.greedy-nav .hidden-links {
+  background: #111;
+}
+
+.greedy-nav .hidden-links a {
+  color: #fff;
+}
