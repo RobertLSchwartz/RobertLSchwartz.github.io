@@ -7,7 +7,7 @@ author_profile: true
 comments: true
 ---
 
-<div class="home-section reading-intro">
+<div class="home-section">
 
   <h4>What I'm Reading</h4>
 
