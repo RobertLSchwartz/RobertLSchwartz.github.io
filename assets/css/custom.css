@@ -49,3 +49,7 @@
     max-width: 135px !important;
   }
 }
+
+.sidebar {
+  outline: 5px solid red !important;
+}
