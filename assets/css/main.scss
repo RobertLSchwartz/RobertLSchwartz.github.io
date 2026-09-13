@@ -7,3 +7,20 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.home-section {
+  background: #f8f8f8;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+  padding: 22px 24px 24px 24px;
+  margin: 0 0 32px 0;
+}
+
+.home-section h3,
+.home-section h4 {
+  margin-top: 0;
+}
+
+.home-section .archive__subtitle {
+  margin-top: 0;
+}
