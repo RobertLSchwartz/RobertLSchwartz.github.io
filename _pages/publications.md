@@ -8,7 +8,7 @@ comments: true
 ---
 
 <div class="home-section">
-<h3 class="archive__subtitle">Publications</h4>
+<h4 class="archive__subtitle">Publications</h4>
 <p>
   Below are two academic publications on the performance of hedge funds.
 </p>
@@ -26,7 +26,7 @@ comments: true
 <br>
 
 <div class="home-section">
-<h3 class="archive__subtitle">White Papers</h4>
+<h4 class="archive__subtitle">White Papers</h4>
 </div>
 
 <div style="display: flex; gap: 20px;">
