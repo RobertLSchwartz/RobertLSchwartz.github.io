@@ -36,3 +36,15 @@
   font-size: 2rem;
   margin-bottom: 10px;
 }
+
+/* Give author sidebar more breathing room */
+@media (min-width: 1024px) {
+  .sidebar {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .sidebar .author__avatar img {
+    max-width: 140px;
+  }
+}
