@@ -4,13 +4,34 @@ classes: wide
 author_profile: true
 ---
 
-<div class="pgh-video-hero">
+<div
+  class="pgh-video-hero"
+  style="
+    position:relative;
+    width:100%;
+    height:clamp(160px, 24vw, 240px);
+    overflow:hidden;
+    border-radius:6px;
+    margin:0 0 32px 0;
+  "
+>
   <video
     autoplay
     muted
     loop
     playsinline
-    preload="metadata">
+    preload="metadata"
+    style="
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center center;
+      display:block;
+    "
+  >
     <source src="/assets/PGH_City_22MB.mp4" type="video/mp4">
   </video>
 </div>
