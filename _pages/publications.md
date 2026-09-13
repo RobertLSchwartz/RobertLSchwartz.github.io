@@ -14,13 +14,6 @@ comments: true
 </p>
 </div>
 
-<div class="home-section">
-
-  <h4>Angel Investing</h4>
-
-
-
-</div>
 <div style="display: flex; gap: 20px;">
   <a href="/assets/Lawson Schwartz 2018.pdf" target="_blank" rel="noopener noreferrer">
     <img src="/assets/Paper_1.png" alt="Lawson Schwartz 2018" width="300">
