@@ -7,7 +7,7 @@ author_profile: true
 comments: true
 ---
 
-<div class="home-section">
+<div class="home-section reading-intro">
 
   <h2>What I'm Reading</h2>
 
@@ -18,7 +18,7 @@ comments: true
 </div>
 
 
-<div class="home-section">
+<div class="home-section reading-links">
 
   <h4>Counterpoint Global Insights</h4>
 
@@ -82,7 +82,7 @@ comments: true
 </div>
 
 
-<div class="home-section">
+<div class="home-section reading-links">
 
   <h4>Oaktree Capital Management</h4>
 
@@ -116,7 +116,7 @@ comments: true
 </div>
 
 
-<div class="home-section">
+<div class="home-section reading-links">
 
   <h4>J.P. Morgan</h4>
 
