@@ -26,55 +26,31 @@ search: false
 }
 
 /* ==========================================================================
-   VIDEO HERO
+   PITTSBURGH VIDEO HERO
    ========================================================================== */
 
-.video-hero {
+.pgh-video-hero {
   position: relative;
   width: 100%;
   height: 260px;
   overflow: hidden;
   border-radius: 6px;
-  margin-bottom: 32px;
+  margin: 0 0 32px 0;
 }
 
-.video-hero__video {
+.pgh-video-hero video {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center center;
+  display: block;
 }
 
-.video-hero__overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.32);
-}
-
-.video-hero__content {
-  position: relative;
-  z-index: 2;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 20px;
-  color: #fff;
-}
-
-.video-hero__content h1 {
-  margin: 0;
-  color: #fff;
-  font-size: 2rem;
-  font-weight: 600;
-}
-
-.video-hero__content p {
-  margin: 8px 0 0;
-  color: #fff;
-  font-size: 1rem;
-  letter-spacing: 0.04em;
+@media (max-width: 768px) {
+  .pgh-video-hero {
+    height: 180px;
+  }
 }
