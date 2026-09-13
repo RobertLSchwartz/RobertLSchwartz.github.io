@@ -9,7 +9,7 @@ comments: true
 
 <div class="home-section reading-intro">
 
-  <h2>What I'm Reading</h2>
+  <h4>What I'm Reading</h4>
 
   <p>
     When I read something particularly rewarding I like to share. All of the files below are already freely available on the internet. I'm purely curating them in a centralized place based on what I see as valuable reading material. Feel free to browse. If you enjoyed something, send me a note on LinkedIn!
